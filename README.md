@@ -1,1 +1,1 @@
-# Biological-sequence-classification-Generative-model 
+# sequence evolution, classification-Generative-model for biological sequences 
