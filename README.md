@@ -1,1 +1,1 @@
-# DL-predmod-Generative-
+# Biological-sequence-classification-Generative-model 
