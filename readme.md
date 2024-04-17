@@ -28,8 +28,8 @@ Ensure you have all required libraries installed. Refer to the "All libraries" f
 
 ### Implementation of models 
 
-- Explore the `generative_model.py` for the generative model implementation.
-- Explore the `classification_model.py` for the classification model implementation.
+- Explore the `generative_model.ipynb` for the generative model implementation.
+- Explore the `classification_model.ipynb` for the classification model implementation.
 
 ### Comparison of models 
 
@@ -37,7 +37,7 @@ Ensure you have all required libraries installed. Refer to the "All libraries" f
 
 ### Similarity check
 
-- To check similarity of generated sequences with other serotypes, refer to `similarity_check_generted_Sequence.py`.
+- To check similarity of generated sequences with other serotypes, refer to `similarity_check_generted_Sequence.ipynb`.
 
 
 ### Licence 
